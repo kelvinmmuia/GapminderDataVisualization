@@ -12,7 +12,7 @@ data("gapminder")
 
 # Define UI
 ui <- navbarPage(
-  theme = bslib::bs_theme(bootswatch = "journal"),
+  theme = bslib::bs_theme(bootswatch = "shiny"),
   
   title = "Global Demographics and Economics",
   
